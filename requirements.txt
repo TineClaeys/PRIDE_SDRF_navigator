@@ -1,0 +1,4 @@
+plotly.express
+subprocess
+sdrf-pipelines
+
